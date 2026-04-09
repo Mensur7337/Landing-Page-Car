@@ -1,4 +1,4 @@
-<img width="1920" height="5454" alt="Landing-Page Screenshoot" src="https://github.com/user-attachments/assets/e929fb75-5462-4ba3-b494-46a8d22c5514" />
+
 
 # 🏎️ McLaren - Modern Landing Page Experience
 
@@ -53,7 +53,8 @@ This project focuses on user experience, speed, and clean design.
 
 ## 📸 Screenshots
 
-> Add your project screenshots here  
+> [Landing-Page Screenshoot.pdf](https://github.com/user-attachments/files/26601871/Landing-Page.Screenshoot.pdf)
+Add your project screenshots here  
 
 ---
 
